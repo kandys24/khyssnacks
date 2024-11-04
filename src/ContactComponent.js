@@ -16,7 +16,6 @@ const ContactComponent = () => {
                         <h3>Call</h3>
                         <label>+263 78 372 1283</label>
                         <label>+263 916 587 193</label>
-                        {/* <label>+263 923 356 553</label> */}
                     </div>
                 </div>
                 <div className="info-item info-item-middle">
@@ -26,7 +25,6 @@ const ContactComponent = () => {
                     <div className="title-container">
                         <h3>Send us an Email</h3>
                         <label>khyssnacks@gmail.com</label>
-                        {/* <label>info@khys.com</label> */}
                     </div>
                 </div>
                 <div className="info-item">
